@@ -36,7 +36,7 @@ print(2 + age)
 user_name = input("What is your name? ")
 
 # 12. Print a greeting using their name
-print(f"Welcome, {user-name}!")
+print(f"Welcome, {user_name}!")
 
 # 13. Ask the user for a number
 user_num = input("Enter a number")
